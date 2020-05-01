@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7cAKD/IRmf9dzSsUCUSN/gvTatYZ0F5SGQzjyU2nqI/Q+VhS1T2DmXqN2TrQTO4FpL8LbZXMEvzFCc/X89hEug==",
+  "dgSpecHash": "honDZv6DLWssq9sEpDgzfy01dHYPWghanPQ6arNqE1vf5I1J4fTP3EcUdkZ9fME5xuya2Opqf4N5SPE3j7wWlA==",
   "success": true,
-  "projectFilePath": "E:\\Meus Projetos\\PokerComTDD\\PokerComTDD\\test\\PokerComTDD.Test\\PokerComTDD.Test.csproj",
+  "projectFilePath": "E:\\Github\\PokerComTDD\\test\\PokerComTDD.Test\\PokerComTDD.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marcela\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Marcela\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

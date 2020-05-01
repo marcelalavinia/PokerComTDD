@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Meus Projetos\\PokerComTDD\\PokerComTDD\\test\\PokerComTDD.Test\\PokerComTDD.Test.csproj": {}
+    "E:\\Github\\PokerComTDD\\test\\PokerComTDD.Test\\PokerComTDD.Test.csproj": {}
   },
   "projects": {
-    "E:\\Meus Projetos\\PokerComTDD\\PokerComTDD\\test\\PokerComTDD.Test\\PokerComTDD.Test.csproj": {
+    "E:\\Github\\PokerComTDD\\test\\PokerComTDD.Test\\PokerComTDD.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Meus Projetos\\PokerComTDD\\PokerComTDD\\test\\PokerComTDD.Test\\PokerComTDD.Test.csproj",
+        "projectUniqueName": "E:\\Github\\PokerComTDD\\test\\PokerComTDD.Test\\PokerComTDD.Test.csproj",
         "projectName": "PokerComTDD.Test",
-        "projectPath": "E:\\Meus Projetos\\PokerComTDD\\PokerComTDD\\test\\PokerComTDD.Test\\PokerComTDD.Test.csproj",
+        "projectPath": "E:\\Github\\PokerComTDD\\test\\PokerComTDD.Test\\PokerComTDD.Test.csproj",
         "packagesPath": "C:\\Users\\Marcela\\.nuget\\packages\\",
-        "outputPath": "E:\\Meus Projetos\\PokerComTDD\\PokerComTDD\\test\\PokerComTDD.Test\\obj\\",
+        "outputPath": "E:\\Github\\PokerComTDD\\test\\PokerComTDD.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
